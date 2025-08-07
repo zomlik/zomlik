@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, меня зовут Александр 👋  
+### Я AQA Engineer (Python) 
 
-<!--
-**zomlik/zomlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Мой стек технологий:  
+- **Языки:** Python, JS
+- **Фреймворки:** Playwright, Selenium
+- **Инструменты:** HTTPX, Requests, Postman  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Базы данных:** PostgreSQL, MySQL
+- **Другое:** Docker, Git, Allure Report, Linux
 
-Here are some ideas to get you started:
+### 📫 Контакты:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ваш_профиль/)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/zomlik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Моя статистика GitHub:  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zomlik&show_icons=true&theme=radical)](https://github.com/zomlik)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomlik&layout=compact&theme=radical)](https://github.com/zomlik)
+
