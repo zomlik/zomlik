@@ -3,11 +3,11 @@
 
 ### 🛠️ Мой стек технологий:  
 - **Языки:** Python, JS
-- **Фреймворки:** Playwright, Selenium
-- **Инструменты:** HTTPX, Requests, Postman  
+- **UI Automation:** Playwright, Selenium (Page Object, Page Factory, Page Components)
+- **API Automation:** requests, httpx  
 - **CI/CD:** GitHub Actions, Jenkins  
-- **Базы данных:** PostgreSQL, MySQL
-- **Другое:** Docker, Git, Allure Report, Linux
+- **Базы данных:** PostgreSQL, MySQL (SELECT, JOIN, агрегации)
+- **Другие инструменты:** Docker, Linux, Postman, DevTools, Swagger
 
 ### 📫 Контакты:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ваш_профиль/)  
@@ -15,5 +15,4 @@
 
 ### 📊 Моя статистика GitHub:  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zomlik&show_icons=true&theme=radical)](https://github.com/zomlik)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomlik&layout=compact&theme=radical)](https://github.com/zomlik)
 
