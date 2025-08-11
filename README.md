@@ -10,7 +10,7 @@
 - **Другие инструменты:** Docker, Linux, Postman, DevTools, Swagger
 
 ### 📫 Контакты:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ваш_профиль/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/zomlik/)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/zomlik)
 
 ### 📊 Моя статистика GitHub:  
